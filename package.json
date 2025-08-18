@@ -13,6 +13,9 @@
     "@tanstack/react-router": "^1.131.25",
     "@tanstack/react-router-devtools": "^1.131.25",
     "@vitejs/plugin-react": "^5.0.0",
+    "bootstrap": "^5.3.7",
+    "bootstrap-icons": "^1.13.1",
+    "motion": "^12.23.12",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
